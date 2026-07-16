@@ -36,10 +36,13 @@ Achieved 89% Recall and 81% F1-score
 🥈 Great Learning Data Science Hackathon – 2nd Place
 
 📫 Connect With Me
+
 ranjaniarumugam5@gmail.com
 
 🔗 Tableau Public
+
 https://public.tableau.com/app/profile/ranjani.arumugam/vizzes
 
 💼 LinkedIn 
+
 www.linkedin.com/in/ranjani-arumugam-57a596104
